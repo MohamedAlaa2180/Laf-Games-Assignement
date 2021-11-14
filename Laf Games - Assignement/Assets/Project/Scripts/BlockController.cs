@@ -87,14 +87,12 @@ public class BlockController : MonoBehaviour
             {
                 distance = hit.distance;
                 hitted = hit.transform.gameObject;
-                Debug.DrawRay(transform.position, arrowDirection * hit.distance, Color.yellow);
             }
             
         }
 
         if (distance < 1) // if size of the block is bigger than the available slots , return
-        {
-            Debug.Log("DOne");
+        {      
             rayCasting = false;
         }
 

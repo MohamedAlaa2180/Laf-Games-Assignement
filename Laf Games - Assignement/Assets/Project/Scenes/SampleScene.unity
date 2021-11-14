@@ -445,8 +445,8 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: e4ab01a713c3bb141809a9c847ee3c75, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  rows: 10
-  cols: 10
+  rows: 5
+  cols: 5
   block: {fileID: 873787519399010073, guid: e0088c7d2502bdc44badc7b7c55d65f9, type: 3}
   arrow: {fileID: 5385584249527488583, guid: 6f8c6b8660948304aaad8cac728f9443, type: 3}
   unitSize: 1
