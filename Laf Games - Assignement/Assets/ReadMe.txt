@@ -1,0 +1,2 @@
+- You can edit the grid from GridManager component in inspector , it's totally dynamic you can make any size
+- You can also add buttons for bigger blocks , just add button and change the unitSize on button component
